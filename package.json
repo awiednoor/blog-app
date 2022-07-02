@@ -1,0 +1,28 @@
+{
+  "name": "blog-app",
+  "version": "1.0.0",
+  "description": "Blog app with authentication ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awiednoor/blog-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awiednoor/blog-app/issues"
+  },
+  "homepage": "https://github.com/awiednoor/blog-app#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  },
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.4.2"
+  }
+}
